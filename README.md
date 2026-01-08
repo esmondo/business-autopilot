@@ -19,6 +19,7 @@ Instead of using one general AI assistant, this plugin gives you **department-ba
 
 ### Marketing
 - `content-creator` - Transform ideas into ready-to-post content
+- `tiktok-strategist` - Build viral TikTok strategies and content calendars
 
 ### Design
 - `ui-designer` - Create interface designs with clear hierarchy
