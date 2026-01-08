@@ -1,0 +1,13 @@
+{
+  "name": "mondo-plugins",
+  "owner": {
+    "name": "Mondo"
+  },
+  "plugins": [
+    {
+      "name": "business-autopilot",
+      "source": "./business-autopilot",
+      "description": "Department-based AI agents to run your business on autopilot"
+    }
+  ]
+}
