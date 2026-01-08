@@ -6,7 +6,7 @@
   "plugins": [
     {
       "name": "business-autopilot",
-      "source": ".",
+      "source": "./",
       "description": "Department-based AI agents to run your business on autopilot"
     }
   ]
